@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: topbar.koplugin\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgctxt "Title info item"
+msgid "Battery"
+msgstr "电池"
+
+msgctxt "Title info item"
+msgid "Brightness level"
+msgstr "亮度等级"
+
+msgctxt "Title info item"
+msgid "Clock"
+msgstr "时钟"
+
+msgctxt "Title info item"
+msgid "Memory"
+msgstr "内存"
+
+msgctxt "Title info item"
+msgid "SSH"
+msgstr "SSH"
+
+msgctxt "Title info item"
+msgid "Storage"
+msgstr "存储"
+
+msgctxt "Title info item"
+msgid "Time in suspend"
+msgstr "休眠时长"
+
+msgctxt "Title info item"
+msgid "Time spent awake"
+msgstr "唤醒时长"
+
+msgctxt "Title info item"
+msgid "Up time"
+msgstr "运行时长"
+
+msgctxt "Title info item"
+msgid "Warmth level"
+msgstr "色温等级"
+
+msgctxt "Title info item"
+msgid "Wi-Fi"
+msgstr "Wi-Fi"
+
+msgid "Active only"
+msgstr "仅激活时"
+
+msgid "Always"
+msgstr "始终显示"
+
+msgid "Arrange module order"
+msgstr "调整模块顺序"
+
+msgid "Auto refresh clock"
+msgstr "自动刷新时钟"
+
+msgid "Available storage in current path"
+msgstr "当前路径可用存储空间"
+
+msgid "Bold font"
+msgstr "粗体字体"
+
+msgid "Bullet"
+msgstr "项目符"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Configuration"
+msgstr "配置"
+
+msgid "Custom separator"
+msgstr "自定义分隔符"
+
+msgid "Custom text"
+msgstr "自定义文本"
+
+msgid "Custom text: '%1'"
+msgstr "自定义文本：'%1'"
+
+msgid "Display mode: %1"
+msgstr "显示模式：%1"
+
+msgid "Dot"
+msgstr "点"
+
+msgid "Em dash"
+msgstr "长横线"
+
+msgid "En dash"
+msgstr "短横线"
+
+msgid "Enter custom separator"
+msgstr "输入自定义分隔符"
+
+msgid "Enter custom text"
+msgstr "输入自定义文本"
+
+msgid "Item separator: %1"
+msgstr "项目分隔符：%1"
+
+msgid "Modules"
+msgstr "模块"
+
+msgid "No separator"
+msgstr "无分隔符"
+
+msgid "RAM used, MiB"
+msgstr "已用内存（MiB）"
+
+msgid "Set"
+msgstr "设置"
+
+msgid "Show customizable status information in the file browser top bar."
+msgstr "在文件浏览器顶栏显示可自定义状态信息。"
+
+msgid "Show file browser path"
+msgstr "显示文件浏览器路径"
+
+msgid "Show top bar modules in drop-down menu"
+msgstr "下拉菜单显示顶栏模块"
+
+msgid "Shown only when SSH server is running"
+msgstr "仅当 SSH 服务运行时显示"
+
+msgid "Sort modules"
+msgstr "模块排序"
+
+msgid "Spaces around separator"
+msgstr "分隔符两侧空格数"
+
+msgid "Spaces around separator: %1"
+msgstr "分隔符两侧空格：%1"
+
+msgid "Top Bar"
+msgstr "顶栏"
+
+msgid "Top Bar Settings"
+msgstr "顶栏设置"
+
+msgid "Vertical bar"
+msgstr "竖线"
+
